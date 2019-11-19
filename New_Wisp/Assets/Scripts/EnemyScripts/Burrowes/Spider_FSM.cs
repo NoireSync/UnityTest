@@ -2,17 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/* NOTE - More states can be added or removed */
+public enum STATES
+{
+    IDLING,
+    CHASING,
+    ATTACKING,
+    RETREATING
+}
+
 public class Spider_FSM : Enemy_Base
 {
-    /* NOTE - More states can be added or removed 
-    public enum STATES
-    {
-        IDLING,
-        CHASING,
-        ATTACKING,
-        RETREATING
-    }*/
-
     // State variable
     //public STATES current_state;
     // Transform to target the player or wisp
