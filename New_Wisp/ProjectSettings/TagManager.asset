@@ -7,6 +7,7 @@ TagManager:
   - Enemy
   - Bullet
   - PlayerBullet
+  - Wisp
   layers:
   - Default
   - TransparentFX
