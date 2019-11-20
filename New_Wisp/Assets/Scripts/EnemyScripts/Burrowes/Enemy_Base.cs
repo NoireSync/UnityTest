@@ -10,3 +10,13 @@ public class Enemy_Base : MonoBehaviour
 
 }
 
+/*public void DamageEnemy(int damage)
+{
+    health -= damage;
+
+    if (health <= 0)
+    {
+        Destroy(gameObject);
+    }
+}*/
+

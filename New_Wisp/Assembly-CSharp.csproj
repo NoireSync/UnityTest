@@ -60,7 +60,8 @@
      <Compile Include="Assets\Scripts\Camera and Lvl\Room_Transfer.cs" />
      <Compile Include="Assets\Scripts\Camera and Lvl\UIController.cs" />
      <Compile Include="Assets\Scripts\EnemyScripts\Burrowes\Enemy_Base.cs" />
-     <Compile Include="Assets\Scripts\EnemyScripts\Burrowes\Spider_FSM.cs" />
+     <Compile Include="Assets\Scripts\EnemyScripts\Burrowes\PlayerTarget_FSM.cs" />
+     <Compile Include="Assets\Scripts\EnemyScripts\Burrowes\WispTarget_FSM.cs" />
      <Compile Include="Assets\Scripts\EnemyScripts\EnemyController.cs" />
      <Compile Include="Assets\Scripts\EnemyScripts\MonsterController.cs" />
      <Compile Include="Assets\Scripts\EnemyScripts\TestEnemyController.cs" />
